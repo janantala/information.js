@@ -1,0 +1,23 @@
+{
+  "name": "information.js",
+  "version": "0.1.0",
+  "description": "Information retrieval library.",
+  "directories": {},
+  "main":"lib/information.js",
+  "dependencies": {
+    "lodash": "~2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": "https://github.com/janantala/information.js",
+  "keywords": [
+    "information gain",
+    "recall",
+    "precision"
+  ],
+  "author": "Jan Antala <jan@antala.sk>",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
