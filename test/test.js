@@ -1,4 +1,4 @@
-var assert = require("assert");
+var assert = require('assert');
 
 var array = ['a', 'b', 'd', 'e', 'x'];
 var reference = ['a', 'b', 'c', 'd', 'e'];
