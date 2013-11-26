@@ -10,10 +10,10 @@ Supported information retreival values:
 - true negative rate
 - accurancy
 
-# Dependencies
+## Dependencies
 - lodash: "~2.3.0"
 
-# Usage
+## Usage
 
 ```js
 var array = ['a', 'b', 'd', 'e', 'x'];
@@ -34,7 +34,7 @@ var information = require('./lib/information.js').getInformation(array, referenc
 }
 ```
 
-# License
+## License
 
 The MIT License
 
