@@ -10,6 +10,9 @@ Supported information retreival values:
 - true negative rate
 - accurancy
 
+# Dependencies
+- lodash: "~2.3.0"
+
 # Usage
 
 ```js
