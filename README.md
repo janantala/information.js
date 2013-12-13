@@ -38,4 +38,4 @@ var information = require('./lib/information.js').getInformation(array, referenc
 
 The MIT License
 
-Copyright (c) 2013 Jan Antala, http://janantala.com
+Copyright (c) 2013 [Jan Antala](http://www.janantala.com)
